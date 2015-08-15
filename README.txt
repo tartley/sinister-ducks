@@ -2,9 +2,15 @@ Sinister Ducks
 ==============
 
 A small game, with quacking.
-http://code.google.com/p/brokenspell/
-http://www.pyweek.org/e/BrokenSpell/
 
+Code and issues:
+    http://github.com/tartley/sinister-ducks
+Playable downloads:
+    https://github.com/tartley/sinister-ducks/releases
+Screenshots, at various stages of development:
+    http://github.com/tartley/sinister-ducks/tree/master/docs/screenshots
+PyWeek competition page:
+    http://www.pyweek.org/e/BrokenSpell/
 
 On Windows:
 
